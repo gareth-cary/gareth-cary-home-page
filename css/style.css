@@ -1,4 +1,13 @@
 @import url("components/button.css");
 @import url("components/title.css");
+@import url("components/card.css");
 
 
+body {
+  background-image:  url(https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80);
+  background-size: cover;
+  background-position: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  width: 100%;
+}
